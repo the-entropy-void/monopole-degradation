@@ -7,6 +7,7 @@ The music written in javascript.
 ## dependencies
 
  * Linux (or OSX? Haven't tried yet)
+ * GNU Make
  * Nodejs 0.10+
  * `apt-get install play`
  * `apt-get install libsox-fmt-mp3`
