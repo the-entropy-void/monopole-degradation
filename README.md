@@ -29,4 +29,4 @@ Be carefull, the music never ends.
 
 ## special thanks
 
-@substack for his damn cool `baudio` tool.
+[https://github.com/substack](Substack), for his damn cool `baudio` tool.
